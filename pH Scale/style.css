@@ -1,0 +1,155 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 3px;
+    color: white;
+    font-weight: 700;
+}
+
+.item{
+    width: 40px;
+    height: 150px;
+    text-align: center;
+}
+.item0{
+    background-color: #f30505;
+}
+.item1{
+    background-color: #fa6a36;
+}
+.item2{
+    background-color: #FFBF00;
+}
+.item3{
+    background-color: rgb(247, 230, 5);
+}
+.item4{
+    background-color: rgb(197, 248, 13);
+}
+.item5{
+    background-color: rgb(157, 238, 5);
+}
+.item6{
+    background-color: rgb(64, 250, 8);
+}
+.item7{
+    background-color: rgb(20, 90, 50) ;
+}
+.item8{
+    background-color: rgb(24, 106, 59 );
+}
+.item9{
+    background-color: rgb(23, 165, 137);
+}
+.item10{
+    background-color: rgb(46, 134, 193);
+}
+.item11{
+    background-color: blue;
+}
+.item12{
+    background-color: rgb(74, 35, 90);
+}
+.item13{
+    background-color: rgb(142, 68, 173);
+}
+.item14{
+    background-color: rgb(81, 46, 95);
+}
+
+
+   /* Color Name Display  */
+.containernam{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    writing-mode: vertical-lr;
+    margin-top: 125px;
+    margin-bottom: 18px;
+    padding-left: 374px;
+    gap: 25px;
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 500;
+}
+.colour0{
+    color:  #f30505;
+}
+.colour1{
+    color: #fa6a36;
+}
+.colour2{
+    color:  #FFBF00;
+}
+.colour3{
+    color: rgb(247, 230, 5);
+}
+.colour4{
+    color: rgb(197, 248, 13);
+}
+.colour5{
+    color: rgb(157, 238, 5);
+}
+.colour6{
+    color:  rgb(64, 250, 8);
+}
+.colour7{
+    color:  rgb(20, 90, 50);
+}
+.colour8{
+    color:  rgb(24, 106, 59 );
+}
+.colour9{
+    color:  rgb(24, 106, 59 );
+}
+.colour10{
+    color:  rgb(46, 134, 193);
+}
+.colour11{
+    color:  blue;
+}
+.colour12{
+    color: rgb(74, 35, 90);
+}
+.colour13{
+    color:  rgb(142, 68, 173);
+}
+.colour14{
+    color:  rgb(81, 46, 95);
+}
+
+
+    /* Numder Display */
+.containernum{
+    display: flex;
+    justify-content: center;
+    gap: 29px;
+    margin-top: 9px;
+    margin-bottom: 10px;
+    display: flex-around;
+}
+
+   /* Last item display */
+.container4{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    margin-top: 30px;
+    font-size: large;
+    font-weight: 800;
+}   
+.name1{
+    color: red;
+}
+.name2{
+    color: green;
+}    
+.name3{
+    color: purple;
+}
